@@ -1,26 +1,19 @@
 {
-  "TRAIN_NO": "12559",
-  "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "18/07/2024",
-  "SOURCE_STATION": "BSBS",
+  "TRAIN_NO": "12694",
+  "TRAIN_COACH": "3A",
+  "TRAVEL_DATE": "18/08/2024",
+  "SOURCE_STATION": "TN",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "NDLS",
-  "TATKAL": false,
+  "DESTINATION_STATION": "TBM",
+  "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
+      "NAME": "asarutheen s",
       "AGE": 26,
       "GENDER": "Male",
-      "SEAT": "No Preference",
-      "FOOD": "No Food"
-    },
-    {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
-      "SEAT": "No Preference",
+      "SEAT": "Upper",
       "FOOD": "No Food"
     }
   ],
