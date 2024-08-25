@@ -1,7 +1,7 @@
 {
   "TRAIN_NO": "12694",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "18/08/2024",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "26/08/2024",
   "SOURCE_STATION": "TN",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "TBM",
@@ -10,8 +10,8 @@
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "asarutheen s",
-      "AGE": 26,
+      "NAME": "Jaheer hussain",
+      "AGE": 35,
       "GENDER": "Male",
       "SEAT": "Upper",
       "FOOD": "No Food"
