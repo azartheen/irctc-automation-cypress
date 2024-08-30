@@ -1,20 +1,23 @@
 {
-  "TRAIN_NO": "12694",
-  "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "26/08/2024",
-  "SOURCE_STATION": "TN",
+  "TRAIN_NO": "12675",
+  "TRAIN_COACH": "2S",
+  "TRAVEL_DATE": "31/08/2024",
+  "SOURCE_STATION": "MAS",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "TBM",
+  "DESTINATION_STATION": "AB",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Jaheer hussain",
-      "AGE": 35,
-      "GENDER": "Male",
-      "SEAT": "Upper",
-      "FOOD": "No Food"
+      "NAME": "Muzammil",
+      "AGE": 27,
+      "GENDER": "Male"
+    },
+    {
+      "NAME": "Akmal",
+      "AGE": 29,
+      "GENDER": "Male"
     }
   ],
   "__valid_coaches__": "SL | 2A | 3A | 3E | 1A | CC | EC | 2S",
