@@ -1,5 +1,4 @@
-![Please Favourite This Project Before Reading (1)](https://github.com/shivamguys/irctc-cypress-automation/assets/25263989/1fe791dc-d320-42dd-99c9-d33fd034525b)
-
+ 
 # IRCTC Tatkal Cypress Automation !
 
 ## Features it has right now?
@@ -34,18 +33,18 @@
 > ```
 ```
 {
-  "TRAIN_NO": "12318",
+  "TRAIN_NO": "12693",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "12/09/2023",
-  "SOURCE_STATION": "UMB",
+  "TRAVEL_DATE": "12/09/2024",
+  "SOURCE_STATION": "MS",
   "BOARDING_STATION": null, <-- Change to full station name if required, else leave null
-  "DESTINATION_STATION": "BSB",
+  "DESTINATION_STATION": "TN",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "SHIVAM PANDEY",
+      "NAME": "Asar",
       "AGE": 25,
       "GENDER": "Male",
       "SEAT": "Side Upper",
@@ -72,26 +71,26 @@
 - You can add multiple passenger array of objects in `PASSENGER_DETAILS` as an example below
 ```
 {
-  "TRAIN_NO": "12318",
+  "TRAIN_NO": "12693",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "12/09/2023",
-  "SOURCE_STATION": "UMB",
+  "TRAVEL_DATE": "12/09/2024",
+  "SOURCE_STATION": "MS",
   "BOARDING_STATION": null, <-- Change to full station name if required, else leave null
-  "DESTINATION_STATION": "BSB",
+  "DESTINATION_STATION": "TN",
   "TATKAL": true,
    "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "SHIVAM PANDEY",
-      "AGE": 26,
+      "NAME": "Asar",
+      "AGE": 25,
       "GENDER": "Male",
       "SEAT": "Side Upper",
       "FOOD" "No Food"
     },
     {
-      "NAME": "Rachna Bhagat",
-      "AGE": 26,
+      "NAME": "Lisa",
+      "AGE": 22,
       "GENDER": "Female",
       "SEAT": "Side Lower",
       "FOOD" "No Food"
